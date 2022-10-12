@@ -1,0 +1,66 @@
+What is the time complexity of adding an item in front of a LinkedList?
+What is the time complexity of adding elements at the beginning of ArrayList?
+Indicate logarithm polynomial time complexity.
+What is the time complexity of the insert(index) method in ArrayList?
+What is the time complexity of the recursive Binary Search algorithm?
+What the time complexity of the linear search algorithm?
+Search a binary search tree costs?
+Element insertion to a Binary Search tree costs?
+Insert and remove items from a heap costs?
+The average time complexity of the Selection sort is?
+The average time complexity of the Heap sort is?
+The average time complexity of Quicksort is?
+The average time complexity of Insertion sort is?
+A hash table uses hashing to transform an item's key into a table index so that iterations, retrievals, and deletions can be performed in expected ___________ time. 
+Average time complexity of Merge sort is?
+The average time complexity of Shell sort is?
+The average time complexity of Bubble sort is? 
+What is the time complexity of the insert(index) method in ArrayList?
+Indicate constant time complexity in terms of Big-O notation.
+Indicate exponential time complexity in terms of big-O notation?
+Find the slowest time.
+What is the time complexity of the ArrayList remove(index) method?
+
+1.O(1)
+2.O(n)
+3.O(n^const(const=2,3…) )   /??????
+4.O(n)
+5.O(logn)
+6.O(n)
+7.O(logn)
+8.O(logn)
+9.O(1)
+10.O(n^2)
+11.O(nlogn)
+12.O(nlogn)
+13.O(n^2)
+14.O(1)
+15.O(nlogn)
+16.O(n^1.25)  ???????
+17.O(n^2)
+18.O(n)
+19.O(1)
+20.O(2^n)
+21.n!
+22.O(n)
+
+
+
+
+
+Array Sorting Algorithms
+Algorithm	Time Complexity	Space Complexity
+Best	Average	Worst	Worst
+Quicksort	Ω(n log(n))	Θ(n log(n))	O(n^2)	O(log(n))
+Mergesort	Ω(n log(n))	Θ(n log(n))	O(n log(n))	O(n)
+Timsort	Ω(n)	Θ(n log(n))	O(n log(n))	O(n)
+Heapsort	Ω(n log(n))	Θ(n log(n))	O(n log(n))	O(1)
+Bubble Sort	Ω(n)	Θ(n^2)	O(n^2)	O(1)
+Insertion Sort	Ω(n)	Θ(n^2)	O(n^2)	O(1)
+Selection Sort	Ω(n^2)	Θ(n^2)	O(n^2)	O(1)
+Tree Sort	Ω(n log(n))	Θ(n log(n))	O(n^2)	O(n)
+Shell Sort	Ω(n log(n))	Θ(n(log(n))^2)	O(n(log(n))^2)	O(1)
+Bucket Sort	Ω(n+k)	Θ(n+k)	O(n^2)	O(n)
+Radix Sort	Ω(nk)	Θ(nk)	O(nk)	O(n+k)
+Counting Sort	Ω(n+k)	Θ(n+k)	O(n+k)	O(k)
+Cubesort	Ω(n)	Θ(n log(n))	O(n log(n))	O(n)
